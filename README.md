@@ -1,4 +1,4 @@
-# AI-Enhanced Telecom Network Monitoring
+   # AI-Enhanced Telecom Network Monitoring
 
 ## Resumen de la Tesis
 
@@ -46,10 +46,10 @@ Asegúrate de no modificar los nombres de los archivos.
 
 **Próximamente:** aquí estarán disponibles los enlaces de descarga directa a cada archivo una vez alojados en sistemas de almacenamiento:
 
-- [UNSW_NB15_training-set.csv (próximamente)](URL_PENDIENTE)
-- [UNSW_NB15_testing-set.csv (próximamente)](URL_PENDIENTE)
-- [UNSW_NB15_TRAIN_FINAL.csv (próximamente)](URL_PENDIENTE)
-- [UNSW_NB15_TEST_FINAL.csv (próximamente)](URL_PENDIENTE)
+- [UNSW_NB15_training-set.csv (próximamente)](https://drive.google.com/file/d/1fVd4hRJSt76B6gRE7VQfiWQNLGy17Y24/view?usp=sharing)
+- [UNSW_NB15_testing-set.csv (próximamente)](https://drive.google.com/file/d/1lriIdUiKcEmyPK3nf-jSFS1fISBz8zNZ/view?usp=sharing)
+- [UNSW_NB15_TRAIN_FINAL.csv (próximamente)](https://drive.google.com/file/d/1_HbI6w2PMxD0QQoVkPs2-990KFAvOI1p/view?usp=sharing)
+- [UNSW_NB15_TEST_FINAL.csv (próximamente)](https://drive.google.com/file/d/1ENFllk8v7RjdaY-75uyGjDGKLm_aGj4i/view?usp=sharing)
 
 ---
 
